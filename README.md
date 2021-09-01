@@ -1,8 +1,6 @@
-# Rossall
+# Electronic Conspicuity at Rossall Field
 
-Electronic Conspicuity
-
-You may have noticed Mark and Joe
+You may have noticed Mark, Joe and Wayne playing with large toasting forks and computer networks in recent days
 
 ![array](images/2021/09/array.png)
 
