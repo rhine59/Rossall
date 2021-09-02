@@ -2,6 +2,8 @@
 
 ![Introduction](images/2021/09/introduction.png)
 
+
+
 You may have noticed me, James, Mark, Joe and Wayne playing with large toasting forks and computer networks in recent days, this has all been in aid of improved Electronic Conspicuity and so here are the details of what we have done and how this can help you.
 
 ![array](images/2021/09/array.png)
@@ -57,3 +59,9 @@ At the bottom of the display there is your flight height profile over time. If y
 There is also the [Glider Radar](https://www.gliderradar.com/center/53.85374,-2.69234/zoom/11/time/15) service. It will show you current flight tracks.
 
 Looks like it will be a busy day today at the ![Sywell Rally](images/2021/09/sywell-rally.png)
+
+Here is some indication of the coverage ![coverage1](images/2021/09/coverage1.png) that we have from the Rossall and MossEdge ATOM stations.
+
+Spot the circuit bashing and the avoidance of the Parachute Drop zone
+
+![coverage2](images/2021/09/coverage2.png)
