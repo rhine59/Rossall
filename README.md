@@ -84,6 +84,12 @@ Spot the circuit bashing and the avoidance of the Parachute Drop zone
 
 ![coverage2](images/2021/09/coverage2.png)
 
+## Other sources of information
+
+There are some informative videos on Youtube under this link [Youtube videos](https://www.youtube.com/c/PilotAware)
+
+![videos](images/2021/09/videos.png)
+
 I do not have all of the answers but feel free to ask any questions you may have.
 
 Thanks, Richard Hine
