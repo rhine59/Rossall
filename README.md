@@ -8,6 +8,8 @@ You may have noticed me, James, Mark, Joe and Wayne playing with large toasting 
 
 [Glider Radar](https://www.gliderradar.com/center/53.96235,-2.76512/zoom/12/time/15)
 
+![Track Playback settings](images/2021/09/track-playback-settings.png)
+
 [Track playback](https://aircrew.co.uk/playback/groundstations/?ICAO=404BCD&RxType=PAW&adbVariant=*&Station=*&start=1630494000&end=1630504800)
 
 [A sample track playback](https://aircrew.co.uk/playback/groundstations/?ICAO=404BCD&RxType=PAW&adbVariant=*&Station=*&start=1630494000&end=1630504800)
