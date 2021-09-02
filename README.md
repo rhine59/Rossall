@@ -1,5 +1,17 @@
 # Electronic Conspicuity at Rossall Field
 
+<!-- TOC -->
+
+- [Electronic Conspicuity at Rossall Field](#electronic-conspicuity-at-rossall-field)
+  - [An Introduction](#an-introduction)
+  - [Is this of use to me?](#is-this-of-use-to-me)
+  - [EC installation optimisation](#ec-installation-optimisation)
+  - [Analysing your flights](#analysing-your-flights)
+
+<!-- /TOC -->
+
+## An Introduction
+
 ![Introduction](images/2021/09/introduction.png)
 
 NOTE: CAA subsidies for the purchase of Electronic Conspicuity devices extended until March 2022. More details here @ [CAA Electronic Conspicuity funding subsidy](https://www.caa.co.uk/General-aviation/Aircraft-ownership-and-maintenance/Electronic-Conspicuity-devices/)
@@ -12,6 +24,8 @@ We have installed and commissioned a Pilotaware ATOM station which is designed t
 
 [Pilotaware ATOM](https://www.pilotaware.com/atom)
 
+## Is this of use to me?
+
 Do you have to be an existing Pilotaware user? Yes, but no.
 
 To get the full benefit of this facility then yes. I run my Pilotaware connected to my Skydemon tablet with an 3mm jack audio connection from my Pilotaware Rosetta to my MicroAvionics powered interface which also has a bluetooth connection back to the Skydemon tablet.
@@ -21,6 +35,8 @@ This provides me with audio and visual information from other Pilotaware users i
 I am aware that there are many SkyEcho users at the club. Pilotaware can ingest the ADSB-Out information from SkyEcho and make this available to Pilotaware users through the ATOM Grid.
 
 If you are interested in further discussion on some of the pros and cons here, then have a look here @ [Which EC device?](http://forum.pilotaware.com/index.php?topic=1804.0)
+
+## EC installation optimisation
 
 You can use Pilotaware services to optimise the installation of your SkyEcho and other EC devices using their 'vector' service. Follow the links below and you will be able to see where you EC signal is being blocked. This is usually by water (humans) or metal objects (engine / bodywork). Remember that it is most useful to know what is in front of you.
 
@@ -37,6 +53,8 @@ Then press 'Go' and look at the data.
 ![vector2](images/2021/09/vector2.png)
 
 Note that this data is just from circuits, so range is not impressive, but looks like I will need to check out what is happening at 10 o'clock. Maybe I will fly higher for a bit longer and then see how it looks before I make any changes.
+
+## Analysing your flights
 
 [Glider Radar](https://www.gliderradar.com/center/53.96235,-2.76512/zoom/12/time/15)
 
