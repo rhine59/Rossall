@@ -7,6 +7,7 @@
   - [Is this of use to me?](#is-this-of-use-to-me)
   - [EC installation optimisation](#ec-installation-optimisation)
   - [Analysing your flights](#analysing-your-flights)
+  - [Other sources of information](#other-sources-of-information)
 
 <!-- /TOC -->
 
@@ -22,7 +23,7 @@ You may have noticed me, James, Mark, Joe and Wayne playing with large toasting 
 
 We have installed and commissioned a Pilotaware ATOM station which is designed to share electronic conspicuity information. Have a read below for more details of what information is collected and rebroadcast.
 
-We will also be shortly adding a TV display to the caravan so that we can see local traffic information. If you want to use this locally now from your own network connected device, then try [Rossall ATOM Station](http://192.168.1.166) We will be making this available from remote locations (home tec.) 
+We will also be shortly adding a TV display to the caravan so that we can see local traffic information. If you want to use this locally now from your own network connected device, then try [Rossall ATOM Station](http://192.168.1.166) We will be making this available from remote locations (home tec.)
 
 [Pilotaware ATOM](https://www.pilotaware.com/atom)
 
