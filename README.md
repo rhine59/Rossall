@@ -19,6 +19,8 @@ NOTE: CAA subsidies for the purchase of Electronic Conspicuity devices extended 
 
 You may have noticed me, James, Mark, Joe and Wayne playing with large toasting forks and computer networks in recent days, this has all been in aid of improved Electronic Conspicuity and so here are the details of what we have done and how this can help you.
 
+My thanks to James Walker from Rossall Field for his encouragement and financial support.
+
 ![array](images/2021/09/array.png)
 
 We have installed and commissioned a Pilotaware ATOM station which is designed to share electronic conspicuity information. Have a read below for more details of what information is collected and rebroadcast.
