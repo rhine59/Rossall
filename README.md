@@ -19,7 +19,7 @@ NOTE: CAA subsidies for the purchase of Electronic Conspicuity devices extended 
 
 You may have noticed me, James, Mark, Joe and Wayne playing with large toasting forks and computer networks in recent days, this has all been in aid of improved Electronic Conspicuity and so here are the details of what we have done and how this can help you.
 
-My thanks to James Walker and Attitude Airsports Ltd. from Rossall Field for his encouragement and financial support.
+My thanks to James Walker from Attitude Airsports Ltd. from Rossall Field for his encouragement and financial support.
 
 ![array](images/2021/09/array.png)
 
